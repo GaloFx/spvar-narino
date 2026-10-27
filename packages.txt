@@ -1,0 +1,6 @@
+gdal-bin
+libgdal-dev
+libspatialindex-dev
+proj-bin
+libproj-dev
+libgeos-dev
